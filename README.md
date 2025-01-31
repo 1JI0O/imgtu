@@ -1,0 +1,1 @@
+用github仓库实现的图床，主要给obsidian插入图片用
